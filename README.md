@@ -1,4 +1,4 @@
-**CLI TypeRacer: A Terminal-Based Typing Speed Test**  
+# **CLI TypeRacer: A Terminal-Based Typing Speed Test**  
 
 CLI TypeRacer is a simple command-line typing speed test that challenges users to type a given phrase as quickly and accurately as possible. It measures words per minute (WPM), accuracy, and total time taken, providing real-time feedback on performance.  
 
